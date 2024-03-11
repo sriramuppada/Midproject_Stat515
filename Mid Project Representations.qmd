@@ -1,0 +1,23 @@
+---
+title: "Mid Project Representations"
+editor: visual
+format: html
+toc: false
+about:
+ template: trestles
+ image-shape: round
+ image-width:  20cm
+chunk_output_type: inline
+---
+
+## 
+
+This is the Youtube Link :-
+
+{{< video https://youtu.be/gvIyAbhdqmM >}}
+
+This is the PowerPoint Presentation Link :-
+
+[Download](https://docs.google.com/presentation/u/1/d/1D6zUsoQrInZeoA1fIo9MlqDKh48ah5Wo/edit?usp=drive_web&ouid=101679080935239737756&rtpof=true)
+
+(<https://docs.google.com/presentation/u/1/d/1D6zUsoQrInZeoA1fIo9MlqDKh48ah5Wo/edit?usp=drive_web&ouid=101679080935239737756&rtpof=true>)

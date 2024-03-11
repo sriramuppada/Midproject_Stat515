@@ -1,0 +1,57 @@
+{
+  "index.qmd": {
+    "index.html": "ec15a4cf"
+  },
+  "about.qmd": {
+    "about.html": "ff37b9bb"
+  },
+  "myself.qmd": {
+    "myself.html": "f28300f1"
+  },
+  "Myself.qmd": {
+    "Myself.html": "ea492769"
+  },
+  "Certifications.qmd": {
+    "Certifications.tex": "43b47dba",
+    "Certifications.html": "68fcb687"
+  },
+  "Internships.qmd": {
+    "Internships.html": "a5e31621"
+  },
+  "STAT_LAB515/Certifications.qmd": {
+    "Certifications.html": "c7ff476b"
+  },
+  "STAT_LAB515/index.qmd": {
+    "index.html": "57225994"
+  },
+  "STAT_LAB515/Internships.qmd": {
+    "Internships.html": "af8ab5b8"
+  },
+  "STAT_LAB515/Myself.qmd": {
+    "Myself.html": "aca35b3c"
+  },
+  "Mid Project Codes.qmd": {
+    "Mid Project Codes.html": "9b240fb4"
+  },
+  "Mid Project Representations.qmd": {
+    "Mid Project Representations.html": "1cfd8ef6"
+  },
+  "Mid_Stat515/Certifications.qmd": {
+    "Certifications.html": "cba0e45e"
+  },
+  "Mid_Stat515/index.qmd": {
+    "index.html": "05b71560"
+  },
+  "Mid_Stat515/Internships.qmd": {
+    "Internships.html": "145b19af"
+  },
+  "Mid_Stat515/Mid Project Codes.qmd": {
+    "Mid Project Codes.html": "8a638ca9"
+  },
+  "Mid_Stat515/Mid Project Representations.qmd": {
+    "Mid Project Representations.html": "f097ddb5"
+  },
+  "Mid_Stat515/Myself.qmd": {
+    "Myself.html": "1fab5725"
+  }
+}
